@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "396157642300",
+    "project_id": "quran-time-app",
+    "storage_bucket": "quran-time-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396157642300:android:57bc181c43537bab73c539",
+        "android_client_info": {
+          "package_name": "edu.luqsiyana.qurantime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-ExfWW9uZittEXupm07od9dtB70txrkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
